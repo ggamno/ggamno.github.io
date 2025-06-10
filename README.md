@@ -1,3 +1,5 @@
+# README
+
 안녕하세요. 블로그 주인장입니다.
 Hello. I am the blog manager.
 
