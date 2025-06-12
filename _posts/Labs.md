@@ -1,5 +1,5 @@
 ---
-title: How to Generate TOC
+title: Labs
 author: Tao He
 date: 2021-08-10
 category: Jekyll
